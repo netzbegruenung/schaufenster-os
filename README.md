@@ -45,21 +45,7 @@ im Vollbild-Modus eine Webseite deiner Wahl an.
 
 ## Anleitung
 
-### Übersicht
-
-So kannst du dir mit den hier angebotenen Werkzeugen dein Image erstellen
-und deinen Pi konfigurieren:
-
-- Inhalt dieses Repositories herunter laden
-- Konfigurationsdatei anpassen, insbesondere WLAN-Einstellungen und
-  Webseiten-URL zur Anzeige
-- Script `TODO` ausführen
-- Image auf SD-Karte schreiben
-- SD-Karte in Pi stecken
-
-### Detailierte Anleitung
-
-Siehe Datei `ANLEITUNG.md`
+Siehe Datei [`ANLEITUNG.md`](https://github.com/netzbegruenung/schaufenster-os/blob/master/ANLEITUNG.md)
 
 ## So kannst Du helfen
 
