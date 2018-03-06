@@ -64,19 +64,7 @@ Es bieten sich zwei Wege an:
 
 ## Bekannte Probleme
 
-- Netzwerkeinstellungen in config.env werden noch nicht ins Image übernommen.
-
-- Einträge in der Datei `fullpageos-network.txt` werden nicht berücksichtigt. Bitte `fullpageos-wpa-supplicant.txt` verwenden.
-
-- Auf deutschsprachigen Seiten erscheint in Chromium das Translate Tool. Siehe
-  [guysoft/FullPageOS#7](https://github.com/guysoft/FullPageOS/issues/7). Um dies
-  zu beheben, muss die Locale-Einstellung des Systems geändert werden. Wie das
-  geht, erfährst Du in der detailierten Anleitung.
-
-- Das Passwort für VNC-Zugang muss manuell via SSH eingerichtet werden.
-
-- `FULLPAGEOS_OVERRIDE_LOCALE` scheint bedeutungslos. Deutsche Locale wird nicht
-  mitinstalliert. Paket `locales-all` muss nachinstalliert werden,
+- Einträge in der Datei `fullpageos-network.txt` werden nicht berücksichtigt. Bitte `fullpageos-wpa-supplicant.txt` verwenden, wie in der Anleitung beschrieben.
 
 - Sobald eine neu beschriebene SD-Karte einmal im Pi verwendet wurde, muss sie neu formatiert
   werden, bevor sie erneut beschrieben werden kann. Sonst kommt es beim Booten zum
