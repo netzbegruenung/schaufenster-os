@@ -51,8 +51,8 @@ Siehe Datei [`ANLEITUNG.md`](https://github.com/netzbegruenung/schaufenster-os/b
 
 - Testen (gerne auf verschiedenen Pi-Modellen) und Korrekturen zur Anleitung
   beisteuern
-- Scripte und Anleitung für Windows ergänzen/anpassen
-- Fehler beheben, Code verbessern
+- Scripte und Anleitung für Linux und Windows ergänzen/anpassen
+- Fehler beheben, Code verbessern. Vor allem die weitere Automatisierung der Konfiguration wäre ein Ziel.
 
 ## Kontakt und Unterstützung
 
