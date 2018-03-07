@@ -45,7 +45,7 @@ im Vollbild-Modus eine Webseite deiner Wahl an.
 
 ## Anleitung
 
-Siehe Datei [`ANLEITUNG.md`](https://github.com/netzbegruenung/schaufenster-os/blob/master/ANLEITUNG.md)
+[Zur ausführlichen Anleitung](https://github.com/netzbegruenung/schaufenster-os/blob/master/ANLEITUNG.md)
 
 ## So kannst Du helfen
 
