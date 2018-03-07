@@ -54,6 +54,8 @@ Siehe Datei [`ANLEITUNG.md`](https://github.com/netzbegruenung/schaufenster-os/b
 - Scripte und Anleitung für Linux und Windows ergänzen/anpassen
 - Fehler beheben, Code verbessern. Vor allem die weitere Automatisierung der Konfiguration wäre ein Ziel.
 
+Für konkrete Themen wirfst Du am besten einen Blick in die [Issues](https://github.com/netzbegruenung/schaufenster-os/issues).
+
 ## Kontakt und Unterstützung
 
 Es bieten sich zwei Wege an:
