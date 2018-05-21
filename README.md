@@ -73,6 +73,12 @@ Es bieten sich zwei Wege an:
   Fehler `Kernel panic - not syncing:
   Requested init /usr/lib/raspi-config/init_resize.sh failed (error -8)`.
 
+- Bild passt nicht auf den Monitor: Dieses Problem könnte je nach angeschlossenem Monitor auftreten.
+  Um es zu beheben, empfehlen wir, die Hardwareunterstützung für OpenGL umzustellen. Mit der neusten raspbian-Version wird
+  diese automatisch eingeschaltet. Mit dem Konfigurationswerkzeug `raspi-config` lässt sich diese in drei verschiedene
+  Einstellungen versetzen. Hier musst Du leider ausprobieren, welche davon zu Deinem System passt. Sie dazu auch
+  [guysoft/FullPageOS#223](https://github.com/guysoft/FullPageOS/issues/223).
+
 ## Dank und Anerkennung
 
 - [guysoft](https://github.com/guysoft) für [CustomPiOS](https://github.com/guysoft/CustomPiOS/) und [FullPageOS](https://github.com/guysoft/FullPageOS/)
